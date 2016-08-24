@@ -1,0 +1,8 @@
+*
+#st{
+	position: relative;
+	top:-20px;
+	background: url(bac.jpg);
+      background-size: cover;
+      height:1000px;
+}
